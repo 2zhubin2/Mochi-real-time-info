@@ -1,2 +1,3 @@
 # Mochi-real-time-info
 "Mochi real-time info"technical support
+"Mochi real-time info" is an app that provides information about virtual currency. Users can exchange information about virtual currency on the "community" page. We provide users with reporting and shielding functions to supervise the content. Users can also view the latest quotation, rise and fall of virtual currency on the "data" page. We will also push some articles related to currency on the home page to enrich the user experience. This platform only provides information reading, does not support trading function, hope to bring you a good experience…For any comments and suggestions, please contact us:“Mochi real-time info” official email:svbzxvfqeur@hotmail.com
